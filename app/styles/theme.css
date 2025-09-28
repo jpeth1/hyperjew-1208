@@ -1,6 +1,6 @@
 :root {
   --oui-font-family: 'Manrope', sans-serif;
-  --oui-font-size-base: 16px;
+  --oui-font-size-base: 12px;
 
   /* colors */
   --oui-color-primary: 0 191 191;
@@ -87,14 +87,14 @@
   --oui-rounded-full: 9999px;
 
   /* spacing */
-  --oui-spacing-xs: 20rem;
-  --oui-spacing-sm: 22.5rem;
-  --oui-spacing-md: 26.25rem;
-  --oui-spacing-lg: 30rem;
-  --oui-spacing-xl: 33.75rem;
+  --oui-spacing-xs: 13rem;
+  --oui-spacing-sm: 13rem;
+  --oui-spacing-md: 13rem;
+  --oui-spacing-lg: 15;
+  --oui-spacing-xl: 20;
 }
 
 html, body {
   font-family: 'Manrope', sans-serif !important;
-  font-size: 16px !important;
+  font-size: 12px !important;
 }
