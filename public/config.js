@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_WALLETCONNECT_PROJECT_ID": "d188fd2010be98e5cf861277258ff75b",
   "VITE_APP_NAME": "HyperJew",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
-  "VITE_HAS_PRIMARY_LOGO": "false",
+  "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Vaults",
   "VITE_CUSTOM_MENUS": "",
@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
