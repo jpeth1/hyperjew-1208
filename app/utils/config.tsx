@@ -279,12 +279,11 @@ export const useOrderlyConfig = () => {
       },
       orderlyAppProvider: {
         appIcons: {
-          main:
-            getRuntimeConfigBoolean('VITE_HAS_PRIMARY_LOGO')
-              : { component: <img src={withBasePath("/logo.webp")} alt="logo" style={{ height: "42px" }} /> }
+          main: {
+            component: <img src={withBasePath("/logo.webp")} alt="logo" style={{ height: "42px" }} />
+          },
           secondary: {
-            img: getRuntimeConfigBoolean('VITE_HAS_SECONDARY_LOGO')
-              : withBasePath("/logo-secondary.webp")
+            img: withBasePath("/logo-secondary.webp")
           },
         },
       },
