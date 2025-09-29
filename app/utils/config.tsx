@@ -306,7 +306,7 @@ export const useOrderlyConfig = () => {
           brandColor: "rgba(255, 255, 255, 0.98)",
           // ref
           refLink: typeof window !== 'undefined' ? window.location.origin : undefined,
-          refSlogan: getRuntimeConfig('VITE_ORDERLY_BROKER_NAME') || "Orderly Network",
+          refSlogan: getRuntimeConfig('VITE_ORDERLY_BROKER_NAME'),
         },
       },
     };
