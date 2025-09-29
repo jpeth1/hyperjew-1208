@@ -552,7 +552,6 @@
   "leverage.updated": "レバレッジを更新しました",
   "scaffold.footer.operational": "運用中",
   "scaffold.footer.joinCommunity": "コミュニティに参加",
-  "scaffold.footer.poweredBy": "提供",
   "tradingRewards.rewards": "報酬",
   "tradingRewards.subtitle": "{{brokerName}}で取引してesORDERを獲得しましょう。",
   "tradingRewards.subtitle.mm": "$ORDERを獲得するために取引",

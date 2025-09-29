@@ -552,7 +552,6 @@
   "leverage.updated": "Kaldıraç güncellendi",
   "scaffold.footer.operational": "Operasyonel",
   "scaffold.footer.joinCommunity": "Topluluğumuza katılın",
-  "scaffold.footer.poweredBy": "Destekleyen",
   "tradingRewards.rewards": "Ödüller",
   "tradingRewards.subtitle": "esORDER kazanmak için {{brokerName}} ile işlem yapın.",
   "tradingRewards.subtitle.mm": "$ORDER kazanmak için işlem yapın",

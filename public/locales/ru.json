@@ -552,7 +552,6 @@
   "leverage.updated": "Кредитное плечо обновлено",
   "scaffold.footer.operational": "Работоспособен",
   "scaffold.footer.joinCommunity": "Присоединяйтесь к нашему сообществу",
-  "scaffold.footer.poweredBy": "Работает на",
   "tradingRewards.rewards": "Награды",
   "tradingRewards.subtitle": "Торгуйте с {{brokerName}}, чтобы заработать esORDER.",
   "tradingRewards.subtitle.mm": "Торгуйте, чтобы заработать $ORDER",

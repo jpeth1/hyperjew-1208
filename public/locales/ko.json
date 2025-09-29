@@ -552,7 +552,6 @@
   "leverage.updated": "레버리지 업데이트됨",
   "scaffold.footer.operational": "운영 중",
   "scaffold.footer.joinCommunity": "커뮤니티 참여하기",
-  "scaffold.footer.poweredBy": "제공:",
   "tradingRewards.rewards": "보상",
   "tradingRewards.subtitle": "{{brokerName}}으로 거래하여 esORDER를 획득하세요.",
   "tradingRewards.subtitle.mm": "$ORDER를 얻기 위해 거래하세요",

@@ -552,7 +552,6 @@
   "leverage.updated": "Đã cập nhật đòn bẩy",
   "scaffold.footer.operational": "Hoạt động",
   "scaffold.footer.joinCommunity": "Tham gia cộng đồng của chúng tôi",
-  "scaffold.footer.poweredBy": "Được cung cấp bởi",
   "tradingRewards.rewards": "Phần thưởng",
   "tradingRewards.subtitle": "Giao dịch với {{brokerName}} để kiếm esORDER.",
   "tradingRewards.subtitle.mm": "Giao dịch để kiếm $ORDER",

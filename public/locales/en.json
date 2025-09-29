@@ -552,7 +552,6 @@
   "leverage.updated": "Leverage updated",
   "scaffold.footer.operational": "Operational",
   "scaffold.footer.joinCommunity": "Join our community",
-  "scaffold.footer.poweredBy": "Powered by",
   "tradingRewards.rewards": "Rewards",
   "tradingRewards.subtitle": "Trade with {{brokerName}} to earn esORDER.",
   "tradingRewards.subtitle.mm": "Trade to earn $ORDER",

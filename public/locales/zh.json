@@ -552,7 +552,6 @@
   "leverage.updated": "杠杆已更新",
   "scaffold.footer.operational": "运营中",
   "scaffold.footer.joinCommunity": "加入我们的社区",
-  "scaffold.footer.poweredBy": "技术支持",
   "tradingRewards.rewards": "奖励",
   "tradingRewards.subtitle": "与{{brokerName}}交易以赚取esORDER。",
   "tradingRewards.subtitle.mm": "交易赚取 $ORDER",
