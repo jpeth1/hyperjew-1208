@@ -282,11 +282,9 @@ export const useOrderlyConfig = () => {
           main:
             getRuntimeConfigBoolean('VITE_HAS_PRIMARY_LOGO')
               ? { component: <img src={withBasePath("/logo.webp")} alt="logo" style={{ height: "42px" }} /> }
-              : { img: withBasePath("/logo.webp") },
           secondary: {
             img: getRuntimeConfigBoolean('VITE_HAS_SECONDARY_LOGO')
               ? withBasePath("/logo-secondary.webp")
-              : withBasePath("/logo-secondary.webp"),
           },
         },
       },
