@@ -271,11 +271,11 @@ export const useOrderlyConfig = () => {
         bottomNavProps: {
           mainMenus: bottomNavMenus,
         },
-        footerProps: {
-          telegramUrl: getRuntimeConfig('VITE_TELEGRAM_URL') || undefined,
-          discordUrl: getRuntimeConfig('VITE_DISCORD_URL') || undefined,
-          twitterUrl: getRuntimeConfig('VITE_TWITTER_URL') || undefined,
-        },
+        // footerProps: {
+        //   telegramUrl: getRuntimeConfig('VITE_TELEGRAM_URL') || undefined,
+        //   discordUrl: getRuntimeConfig('VITE_DISCORD_URL') || undefined,
+        //   twitterUrl: getRuntimeConfig('VITE_TWITTER_URL') || undefined,
+        // },
       },
       orderlyAppProvider: {
         appIcons: {
